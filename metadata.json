@@ -1,0 +1,6 @@
+{
+  "name": "منظم الكورسات والمنبهات الذكية",
+  "description": "تطبيق متكامل لتنظيم الكورسات وإدارة المنبهات الدراسية مع تحديد درجة الأهمية والنغمات وتكرار التنبيه وإحصائيات الإنجاز اليومية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
